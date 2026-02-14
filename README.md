@@ -130,6 +130,7 @@ colorama (for colored UI)
 
 ### Install
 ```bash
+https://github.com/trambleofficial-tf-tg/scientific-calculator-cli.git 
 cd scientific-calculator-cli
 pip install -r requirements.txt
 ```
