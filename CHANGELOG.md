@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [2.0.0] - 2024
+## [2.0.0] - 2026
 
 ### Added
 - 40+ mathematical operations
