@@ -360,6 +360,6 @@ MIT License - Free to use and modify
 
 ---
 
-**Made with ❤️ for the mathematical community**
+**Made with ❤️ tf-tg**
 
 **SCIENTIFIC CALCULATOR v4.0 ULTIMATE - The Ultimate Mathematical Tool**
